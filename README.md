@@ -1,19 +1,17 @@
-# ksxz and hxzz - nuke
-
 *nuker v3*
 
-**NUKER FEITO POR KSXZ and HXZZ**
+**NUKER FEITO POR LA SAN and HXZZ**
 
 **FEITO PARA DEMONSTRAÇÃO, USE POR SUA CONTA E RISCO**
 
 **Support Discord Server**
-*https://discord.gg/SWEYhcXjPr*
+*https://discord.gg/ZGz4q9KQT6*
 
-**KSXZ AND HXZZ**
+**LA SAN AND HXZZ**
 
 # Disclaimer
 
 **Este projeto deve ser utilizado apenas para fins educacionais,** **testes autorizados ou ambientes próprios.**
 **O uso indevido pode violar termos de serviço de plataformas e leis**
 
-*© 2026 HEX ALLIANCE — All Rights Reserved.*
+*© 2026 YUNMAHUH TEAM — All Rights Reserved.*
